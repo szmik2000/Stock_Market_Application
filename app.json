@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Stock_Market_Application",
+    "slug": "Stock_Market_Application",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Stock_Market_Application"
+}
